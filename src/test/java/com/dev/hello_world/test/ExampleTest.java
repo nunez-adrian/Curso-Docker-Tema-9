@@ -6,6 +6,6 @@ import org.junit.Test;
 public class ExampleTest {
 	@Test
 	public void exampleTest() {
-		Assert.assertTrue(true);
+		Assert.assertTrue(true); // This test will always pass
 	}
 }
